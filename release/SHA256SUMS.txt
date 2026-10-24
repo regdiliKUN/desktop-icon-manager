@@ -1,0 +1,1 @@
+037c599e1f0265b5f144e5ab7196d71e67b91eca9142222fb44018ebc94ab3d4  release/1.0.0/desktop-icon-manager-1.0.0-win-x64/DesktopIconManager.exe
